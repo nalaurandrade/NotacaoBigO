@@ -1,0 +1,14 @@
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\bin\Debug\net10.0\NotacaoBigO.exe
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\bin\Debug\net10.0\NotacaoBigO.deps.json
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\bin\Debug\net10.0\NotacaoBigO.runtimeconfig.json
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\bin\Debug\net10.0\NotacaoBigO.dll
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\bin\Debug\net10.0\NotacaoBigO.pdb
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.AssemblyInfoInputs.cache
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.AssemblyInfo.cs
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.csproj.CoreCompileInputs.cache
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.dll
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\refint\NotacaoBigO.dll
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.pdb
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\NotacaoBigO.genruntimeconfig.cache
+C:\Users\anala\OneDrive\Documents\GitHub\NotacaoBigO\NotacaoBigO\NotacaoBigO\obj\Debug\net10.0\ref\NotacaoBigO.dll
